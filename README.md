@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/laysakura/Security-Development-Lab/main/logo.png" alt="ロゴ" width="200px">
 </p>
 
-- 屋号: Security & Development Lab
+- 屋号: SecDevLab
 - 職務経歴書: https://github.com/laysakura/resume-jp
 
 ## 事業内容
